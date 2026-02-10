@@ -1,0 +1,13 @@
+System Architecture:
+
+Sensors (Temperature / Humidity)
+        |
+        v
+Microcontroller (Edge Node)
+        |
+ Local Data Processing
+        |
+ Alert Generation (Buzzer / LED)
+
+The system follows a decentralized architecture where each node
+processes data independently without relying on a central server.
